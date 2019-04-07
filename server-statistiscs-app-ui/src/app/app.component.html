@@ -1,0 +1,20 @@
+  <h1 style="text-align: center">
+     {{ title }}
+  </h1>
+  <div style="overflow-x:auto;">
+    <table>
+      <tr>
+        <th>Server Name </th>
+        <th> Memory Used (GB)</th>
+        <th> Memory available (GB)</th>
+        <th> No Of Processes Running </th>
+      </tr>
+      <tr *ngFor="let item of data">
+          <td >{{item.name}} </td>
+          <td > {{item.memory}}</td>
+          <td > {{item.available}} </td>
+          <td > {{item.processes}} </td>
+      </tr>
+  </table>
+  </div>
+

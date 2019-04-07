@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 3px;
+    width: 100%;
+  }
+  
+   td,th {
+    text-align: left;
+    width: 10%;
+    padding: 8px;
+    border: 1px solid violet;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
