@@ -1,0 +1,17 @@
+INSERT INTO SERVER_STATS_TBL(id, name, memory, available, processes) VALUES (1, 'Server 1', 101, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (2, 'Server 2', 123, 133,2);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (3, 'Server 3', 145, 53, 40);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (4, 'Server 4', 134, 50, 50);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (5, 'Server 5', 154, 320, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (6, 'Server 6', 165, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (7, 'Server 7', 176, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (8, 'Server 8', 176, 23, 70);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (9, 'Server 9', 187, 324, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (10, 'Server 10', 187, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (11, 'Server 11', 198, 5320, 0);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (12, 'Server 12', 123, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (13, 'Server 13', 134, 5320, 0);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (14, 'Server 15', 167, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (15, 'Server 16', 108, 530, 4);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (16, 'Server 17', 109, 50, 10);
+INSERT INTO SERVER_STATS_TBL (id, name, memory, available, processes) VALUES (17, 'Server 18', 109, 50, 10);
